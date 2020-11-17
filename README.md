@@ -13,6 +13,11 @@ A Simple Review System For A Organization
 
 <img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/Register.JPG" height="400" />
 
+## Review Page
+
+<img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/review.JPG" height="400" />
+
+
 ## Approve Page
 
 <img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/approve.JPG" height="400" />
