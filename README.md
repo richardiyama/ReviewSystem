@@ -1,4 +1,4 @@
-# ReviewSystem
+# Review System
 A Simple Review System For A Organization
 ## Home Page
 
@@ -53,5 +53,8 @@ Get: localhost:8080/api/v1/reviews/getAllReview
 # Approve Reviews
 Put: localhost:8080/api/v1/reviews/approve
 
-
-
+# Notes
+Create two roles each for "admin" and "user"
+on Phpmyadmin and also set a registered User manually to admin by 
+changing the "roleId" on user-roles" to 2.
+Thanks...
