@@ -36,22 +36,22 @@ Run: npm test
 # Api End points
 
 # Register new User
-Post: localhost:8080/api/v1/users/create
+Post: localhost:3000/api/v1/users/create
 
 # Signin User
-Post: localhost:8080/api/v1/users/signin
+Post: localhost:3000/api/v1/users/signin
 
 # Get all Users
-Get: localhost:8080/api/v1/users/index
+Get: localhost:3000/api/v1/users/index
 
 # Create Reviews
-Post: localhost:8080/api/v1/reviews/create
+Post: localhost:3000/api/v1/reviews/create
 
 # Get All Reviews
-Get: localhost:8080/api/v1/reviews/getAllReview
+Get: localhost:3000/api/v1/reviews/getAllReview
 
 # Approve Reviews
-Put: localhost:8080/api/v1/reviews/approve
+Put: localhost:3000/api/v1/reviews/approve
 
 # Notes
 Create two roles each for "admin" and "user"
