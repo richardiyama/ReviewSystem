@@ -2,20 +2,20 @@
 A Simple Review System For A Organization
 ## Home Page
 
-<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/frontend/reviewsystem/public/home.JPG" height="400" />
+<img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/home.JPG" height="400" />
 
 
 ## Sign In Page
 
-<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/frontend/reviewsystem/public/login.JPG" height="400" />
+<img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/login.JPG" height="400" />
 
 ## Register Page
 
-<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/frontend/reviewsystem/public/Register.JPG" height="400" />
+<img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/Register.JPG" height="400" />
 
 ## Approve Page
 
-<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/frontend/reviewsystem/public/approve.JPG" height="400" />
+<img src="https://github.com/richardiyama/ReviewSystem/blob/master/frontend/reviewsystem/public/approve.JPG" height="400" />
 
 # Install Packages
 Run: npm install or yarn install or yarn add
