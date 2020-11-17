@@ -20,7 +20,7 @@ A Simple Review System For A Organization
 # Install Packages
 Run: npm install or yarn install or yarn add
 cd to Backend Folder
-Run: node server.js to start the server.
+Run: node server.js or npm run dev to start the server.
 cd to Frontend Folder
 Run: npm start to start React app
 # Database used
