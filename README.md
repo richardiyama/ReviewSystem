@@ -29,7 +29,7 @@ Mysql(PhpMyadmin)
 # ORM used
 Sequelize
 
-#Testing with Mocha and Chai
+# Testing with Mocha and Chai
 cd to Backend Folder
 Run: npm test
 
