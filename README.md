@@ -1,5 +1,17 @@
 # ReviewSystem
 A Simple Review System For A Organization
+## Home Page
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/home1.JPG" height="400" />
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/home2.JPG" height="400" />
+
+## Sign In Page
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/SignIn.JPG" height="400" />
+
+## Shopping Basket
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/cart.JPG" height="400" />
 
 # Install Packages
 Run: npm install or yarn install or yarn add
